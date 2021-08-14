@@ -1,4 +1,4 @@
-# ESharing 
+# ESharing exercise
 
 Erstellen und Implementieren Sie für folgenden Sachverhalt die entsprechenden Klassen,
 Interfaces und Enums. Nutzen Sie ggf. auch eine Vererbungshierarchie und definieren Sie alle
